@@ -9,6 +9,7 @@ namespace ProductOrderUnitTest
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.Fail();
         }
     }
 }
